@@ -1,6 +1,8 @@
 # Azure Cosmos DB Live Data Migrator
 Simple and reliable service to transfer data from one Cosmos DB SQL API container to another in a live fashion.
 
+**Note**: this is an old version of the migrator app. The latest version can be found [here](https://github.com/Azure-Samples/azure-cosmosdb-live-data-migrator)
+
 ## Features
 
 The Cosmos DB Live Data Migrator provides the following features:
